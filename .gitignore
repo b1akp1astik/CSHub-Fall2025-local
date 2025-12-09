@@ -7,6 +7,8 @@ tools/**/*
 **application.log
 *.log
 
+frontend/public/html/OpenNEX 2016_files/analytics.js
+
 **/sbt-dist
 .DS_Store
 
