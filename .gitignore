@@ -14,3 +14,4 @@ frontend/public/html/OpenNEX 2016_files/analytics.js
 
 .env
 *.iml
+*.patch
